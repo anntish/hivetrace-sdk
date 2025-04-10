@@ -1,6 +1,6 @@
-Hivetrace SDK
+# Hivetrace SDK
 
-Description
+## Description
 Hivetrace SDK is designed for integration with the Hivetrace service, providing monitoring of user prompts and LLM responses.
 
 Installation
